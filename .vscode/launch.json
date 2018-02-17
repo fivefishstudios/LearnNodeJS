@@ -9,7 +9,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Learn NodeJS",
-      "program": "${workspaceFolder}/d11/app.js"
+      "program": "${workspaceFolder}/call2.js"
     }
   ]
 }
