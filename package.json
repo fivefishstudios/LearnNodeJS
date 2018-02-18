@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "exercise files for Learn Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ruel oquindo",
+  "license": "ISC",
+  "keywords": [
+    "learn",
+    "nodejs",
+    "tutorial"
+  ]
+}
